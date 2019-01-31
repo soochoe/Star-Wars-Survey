@@ -9,7 +9,7 @@ The questions that were looked into included:
 Data Cleaning and Explorating Data Analysis were conducted in a Jupyter notebook. 
 
 Interested observations were discovered as noted below: 
-- Star Trek fans had stronger reactions to the Star Wars movies. They ranked movies 1-3 less than a non-Star Trek fan and ranked movies 4-6 higher than a non-Star Trek fan.
+- Star Trek fans had stronger reactions to the Star Wars movies. They ranked movies 1-3 lower than a non-Star Trek fan and ranked movies 4-6 higher than a non-Star Trek fan.
 - Most of the audience who watched Star Wars movies are fans of Star Trek.
 
 How to install project?
