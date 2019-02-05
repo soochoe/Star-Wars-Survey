@@ -4,7 +4,7 @@ The objective of this project is to observe and examine data collected from Star
 The survey consist of over 800 responses and was colllected by a team from a blog called FiveThirtyEight.
 Data Cleaning and Explorating Data Analysis were conducted in a Jupyter notebook to analyze the following questions:
 
-- "Does the rest of America realize that �The Empire Strikes Back� is clearly the best of the bunch?"
+- "Does the rest of America realize that "T"he Empire Strikes Back" is clearly the best of the bunch?"
 - "Do Star Trek fans also love Star Wars movies?"
 
 #### Interested observations
